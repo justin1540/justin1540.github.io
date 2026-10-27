@@ -13,8 +13,7 @@ __pycache__/
 
 ## Gemfile.lock
 
-# Local Jekyll output and dependencies
-_site/
+# Local Jekyll caches and dependencies
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
