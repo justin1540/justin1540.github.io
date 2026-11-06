@@ -1,0 +1,10 @@
+{
+  "source_rows": 4747,
+  "invalid_date_rows": 950,
+  "valid_date_missing_state_rows": 0,
+  "outside_1970_2018_rows": 134,
+  "retained_rows": 3663,
+  "states": 49,
+  "source_url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv",
+  "source_sha256": "302c6b7cc392dfe52c9c4890bf96f2b3ccdf1911fef803a3e86d1a3540071c88"
+}
