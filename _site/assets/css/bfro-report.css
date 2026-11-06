@@ -1,6 +1,5 @@
 .bfro-report { color: #243b35; font-size: 16px; line-height: 1.8; padding-bottom: 2rem; }
 .bfro-report .bfro-hero { background: #edf4ef; border-top: 4px solid #176b68; border-radius: 4px 4px 14px 14px; padding: 2rem; margin-bottom: 1.4rem; }
-.bfro-report .bfro-eyebrow { color: #42675b; font-size: .72rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
 .bfro-report h1 { color: #193a36; border: 0; margin-top: .65rem; font-size: clamp(2rem, 5vw, 2.9rem); letter-spacing: -.04em; line-height: 1.15; }
 .bfro-report h2 { color: #193a36; margin-top: 2.6rem; font-size: 1.55rem; border-bottom-color: #dce7df; }
 .bfro-report h3 { font-size: 1.2rem; color: #193a36; margin-top: 2rem; }
@@ -8,7 +7,6 @@
 .bfro-report a.bfro-button { display: inline-flex; gap: 1.3rem; align-items: center; padding: .55rem 1rem; background: #176b68; color: white; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: .9rem; }
 .bfro-report a.bfro-button-secondary { background: white; color: #176b68; border: 1px solid #b7cdc4; }
 .bfro-report a.bfro-button:hover { box-shadow: 0 0 0 3px #b7cdc4; }
-.bfro-report .bfro-caveat { font-size: .9rem; color: #5a6c62; padding-left: 1rem; border-left: 3px solid #b8c6ad; }
 .bfro-report .bfro-chart-shell { background: white; color: #243b35; border: 1px solid #dce7df; border-radius: 10px; padding: 1.3rem 1.2rem .9rem; margin: 1.25rem 0; overflow-x: auto; }
 .bfro-report .bfro-chart { width: 100%; min-width: 510px; }
 .bfro-report .vega-embed { width: 100%; }
@@ -16,7 +14,6 @@
 .bfro-report .vega-bind { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
 .bfro-report .vega-bind input[type=range] { accent-color: #176b68; width: 210px; }
 .bfro-report .vega-bind select { background: #f6f9f7; border: 1px solid #b7cdc4; padding: .3rem .6rem; border-radius: 4px; color: #193a36; }
-.bfro-report .bfro-chart-note { color: #5a6c62; font-size: .83rem; margin-top: -.6rem; }
 .bfro-report .bfro-chart-status { margin: .5rem 0; color: #5a6c62; }
 .bfro-report .bfro-chart-status[data-error] { color: #a12f24; }
 [data-theme="dark"] .bfro-report { background: #fff; padding: 1.3rem; border-radius: 10px; }
